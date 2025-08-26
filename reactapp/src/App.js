@@ -4,7 +4,7 @@ import MessageInput from './components/MessageInput';
 import ChatHeader from './components/ChatHeader';
 import './App.css';
 
-const API_BASE_URL = 'http://localhost:8080/api';
+const API_BASE_URL = 'https://realtimechatsupportsystem.onrender.com/api';
 
 const mockUsers = {
   customer: { id: "cust123", name: "John Doe" },
